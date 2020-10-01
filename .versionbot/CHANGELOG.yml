@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add a refresh networks button
+      hash: e48665cfd396326475dba97289c9e325287d0ff0
+      body: ''
+      footer:
+        Connects-to: '#225'
+        connects-to: '#225'
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Stevche Radevski <stevche@balena.io>
+        signed-off-by: Stevche Radevski <stevche@balena.io>
+      author: Stevche Radevski
+  version: 4.5.0
+  date: 2020-10-01T08:28:08.126Z
+- commits:
     - subject: Allow toggling "show password" on password input
       hash: 582dc761d92edc38d225dfe139a602ef0c06479d
       body: ''
